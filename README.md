@@ -29,6 +29,8 @@
 # ![image](https://user-images.githubusercontent.com/58022238/102002487-97889500-3d2f-11eb-883e-6beee14b1395.png)
 # ![image](https://user-images.githubusercontent.com/58022238/102002491-a2dbc080-3d2f-11eb-832c-3315f5cd05da.png)
 ## Sehingga di dapatkan berikut pohon pembagian IP berdasarkan penggabungan subnet yang telah dilakukan:
+# 
+![image](https://user-images.githubusercontent.com/58022238/102009334-5b722600-3d69-11eb-9db4-9193cf7461b6.png)
 
 
 
