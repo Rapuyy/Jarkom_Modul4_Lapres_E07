@@ -5,11 +5,11 @@
 ## 05111840007004 Siti Munawaroh
 
 ## Soal
-# 1. Menghitung subneting dan pohon pembagian IP
-# Hasil perhitungan untuk VLSM / CIDR, berbeda dengan di CPT / UML
+#  Menghitung subneting dan pohon pembagian IP
+# Untuk server MOJOKERTO dan MALANG, tidak perlu diikutkan dalam subnet pembagian IP, karena mereka menggunakan NID DMZ: 10.151.79.64/29, di mana akan dipecah masing-masing mendapatkan NID 10.151.79.64/30 dan 10.151.79.68/30.
+
 # ![image](https://user-images.githubusercontent.com/58022238/102002440-13361200-3d2f-11eb-8c64-a7126a76e6e9.png)
 
-# Jawaban
 # VLSM ( Variable Length Subnet Masking) - CPT
 
 # hasil dari perhitunga subneting adalah 16
