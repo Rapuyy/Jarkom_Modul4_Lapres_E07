@@ -10,6 +10,8 @@
 # ![image](https://user-images.githubusercontent.com/58022238/102002440-13361200-3d2f-11eb-8c64-a7126a76e6e9.png)
 
 # Jawaban
+# VLSM ( Variable Length Subnet Masking) - CPT
+
 # hasil dari perhitunga subneting adalah 16
 # ![image](https://user-images.githubusercontent.com/58022238/102002475-732cb880-3d2f-11eb-8d44-c08a084a0a73.png)
 # ![image](https://user-images.githubusercontent.com/58022238/102002480-7de74d80-3d2f-11eb-90b7-8bf10889f982.png)
